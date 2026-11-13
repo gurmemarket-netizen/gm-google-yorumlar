@@ -1,0 +1,193 @@
+{
+ "updatedAt": "2026-11-13T23:30:00+03:00",
+ "source": "seed",
+ "place": {
+  "name": "Efendioğlu Gurme Market",
+  "rating": 4.9,
+  "count": 676,
+  "mapsUri": "https://www.google.com/maps?cid=866895817036598945",
+  "writeReviewUri": "https://www.google.com/maps?cid=866895817036598945"
+ },
+ "reviews": [
+  {
+   "id": "seed-00",
+   "author": "Hamiyet Tokat",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Baharatlarınızı almak için tercih edeceğiniz tek yer olabilir ilgi ve alakaları bizi çok memnun etti özellikle Baki kardeşim özenle her şeyi bizler için paketledi. Sahibi olan beyfendinin sohbeti ve sıcakkanılığı çok keyifliydi, çok teşekkür ederiz.",
+   "publishTime": "2026-10-30T12:00:00Z",
+   "approxDate": true,
+   "relative": "2 hafta önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-01",
+   "author": "Ender Sahin",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Küçük Fatih bey'e bizimle çok güzel ilgilendiği için teşekkür ediyorum. Güvenilir temiz kaliteli baharatlar",
+   "publishTime": "2026-10-30T12:00:00Z",
+   "approxDate": true,
+   "relative": "2 hafta önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-02",
+   "author": "bircan kocataş",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Gaziantep’e geldiğimizde baharat alışverişimiz için uğradığımız bu dükkândan çok memnun kaldık. Ürünlerin kalitesi ve çeşitliliği gerçekten çok güzeldi. Özellikle çalışan Baki Bey’in ilgisi, güler yüzü ve ürünler hakkında yaptığı güzel yönlendirmeler için ayrıca teşekkür ederiz. Alışverişimizi keyifli hale getirdi. Gaziantep’e yolu düşen herkese gönül rahatlığıyla tavsiye ederim. 😊",
+   "publishTime": "2026-10-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "bir ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-03",
+   "author": "HALİL YASİR SADAY",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Gaziantep’te alabileceğiniz en kaliteli ürünlere sahip yerdir. Baki kardeşim özverili çalışması ve güler yüzüyle harika ilgilendi bizimle, yolunuz düşerse baki kardeşimi mutlaka bulun size yardımcı olacaktır",
+   "publishTime": "2026-10-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "bir ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-04",
+   "author": "Batu Suayipoglu",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Ürün, hizmet ve kalite harika. Baki kardeşimize güzel esnaflığı için ayrıca teşekkür ederiz.",
+   "publishTime": "2026-10-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "bir ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-05",
+   "author": "Dilek Aksu",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "İlk defa Gaziantep'e geldim, gezerken verdikleri ikram sayesinde durdum. Baki çalışanı çok ilgili ve işinde bilgili biriydi, bize çok yardımcı oldu. Ürünleri gayet lezzetli ve güzel kesinlikle tavsiye ederim.",
+   "publishTime": "2026-09-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "2 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-06",
+   "author": "Nursel DURSUN",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Baharatların tazeliği ve kalitesi gerçekten harika. Güler yüzlü hizmetleri ve ilgileri için ayrıca teşekkür ederim. Antep’te baharat denince gönül rahatlığıyla tavsiye ederim ve Baharatların kokusu, rengi ve kalitesi ilk bakışta fark ediliyor. Çalışanlar çok ilgili, hangi ürünü nasıl kullanacağınız konusunda da yardımcı oluyorlar. Alışveriş yaparken güven veren, kaliteli bir işletme. Bundan sonra baharat alışverişimin tek adresi , 🌸🌸🌸",
+   "publishTime": "2026-08-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "3 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-07",
+   "author": "Hilal AYDIN",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Gaziantep ziyaretimizde çok memnun kaldığımız bir alışveriş yaptık. Her şeyin tadına da bakabildik. Çalışanlar çok ilgiliydi. Özellikle Yusuf’a tatlı dili ve güleryüzü için çok teşekkür ederim. Ayrıca ödeme için yemek kartı seçenekleri de mevcut. Yolunuz düşerse uğramanızı tavsiye ederim.",
+   "publishTime": "2026-06-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "5 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-08",
+   "author": "Hüseyin",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Harika lezzetler,kaliteli tatlar.Esnaflıkları da 10 numara.İlgili ve alâkalılar.Ayrıca ikramları içinde teşekkür ederiz.Çok fazla çeşit ürünleri bulunmakta.",
+   "publishTime": "2026-06-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "5 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-09",
+   "author": "Furkan",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Esnaf gibi esnaf, ilgi alakaları çok güzeldi, istemesek bile bütün ürünlerin tatlarına baktırdılar, öyle aldık. Baharat, salça vs alacaksanız tercih edebilirsiniz.",
+   "publishTime": "2026-05-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "6 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-10",
+   "author": "Edip Candaş Melek",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Gaziantep gezimiz sırasında uğradık ve çok memnun kaldık. Aldığımız tüm ürünler oldukça taze ve kaliteliydi. Özellikle ikramları ve samimi yaklaşımları için teşekkür ederiz. Tekrar gelmek isteriz.",
+   "publishTime": "2026-05-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "6 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-11",
+   "author": "durmuş şamcı",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Ürün çeşitliliği gerçekten çok iyi, özellikle gurme ürünleri bulmak çok keyifliydi. Çalışanlar ilgili ve güler yüzlü, alışveriş yaparken kendini rahat hissediyorsun. Kesinlikle tekrar geleceğim bir yer.”",
+   "publishTime": "2026-05-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "6 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-12",
+   "author": "Tuğçe Kılınçkaya",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Almadı pazarında efendioğlu gurme marketten imam beyden alışveriş yaptık çok ilgilendi ürünlerin kalitesi aşırı iyiydi evimize kargolandı ürünler kahve ve çay ikramı içinde teşekkür ederiz",
+   "publishTime": "2026-04-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "7 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-13",
+   "author": "Kadriye KUZEY",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Keyifli bir alışveriş deneyimiydi. Özellikle zahter ve salata, kısır, zeytin sosu için satılan baharatı bir an önce deneyimleyip yorumu tekrarlayacağım. Bizimle ilgilenen Yusuf Bey’e teşekkür ediyorum. Uğrayın ve deneyimi siz de yaşayın.",
+   "publishTime": "2026-04-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "7 ay önce",
+   "source": "seed"
+  },
+  {
+   "id": "seed-14",
+   "author": "Simge Kop",
+   "authorUri": null,
+   "photo": null,
+   "rating": 5,
+   "text": "Güleryüzlü ve ilgili çalışanları ile kaliteli ürünler alarak keyifli bir alışveriş yaptık. Edenred ödeme seçeneği ve internet sitesi olması kullanıcılar için mükemmel avantaj.",
+   "publishTime": "2025-11-13T12:00:00Z",
+   "approxDate": true,
+   "relative": "bir yıl önce",
+   "source": "seed"
+  }
+ ]
+}
