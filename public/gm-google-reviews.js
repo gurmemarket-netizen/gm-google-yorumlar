@@ -88,7 +88,7 @@
   function section(el, d) {
     var p = d.place, root = mount(el);
     var cards = d.reviews.map(function (r) {
-      var av = r.photo ? '<img src="' + esc(r.photo) + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : esc(initial(r.author));
+      var av = r.photo ? '<img src="' + esc(r.photo) + '" alt="" loading="lazy" referrerpolicy="no-referrer" data-i="' + esc(initial(r.author)) + '">' : esc(initial(r.author));
       var name = r.authorUri ? '<a href="' + esc(r.authorUri) + '" target="_blank" rel="noopener nofollow" style="text-decoration:none">' + esc(r.author) + '</a>' : esc(r.author);
       return '<article class="card"><div class="row"><div class="who"><div class="av">' + av + '</div><div><div class="nm">' + name + '</div><div class="dt">' + esc(tarih(r)) + '</div></div></div>' + G_ICON + '</div>' +
         stars(r.rating, 16) + '<p class="tx">' + esc(r.text) + '</p>' +
@@ -107,6 +107,11 @@
       '<div class="rail"><button class="nav l" type="button" aria-label="Önceki yorumlar">‹</button><div class="track">' + cards + '</div><button class="nav r" type="button" aria-label="Sonraki yorumlar">›</button></div>' +
       '<div class="foot">' + G_ICON + ' Yorumlar Google Haritalar’daki işletme profilimizden otomatik olarak alınır.</div>';
     root.appendChild(box);
+    box.querySelectorAll('.av img').forEach(function (im) {
+      function fallback() { var p = im.parentNode; if (p) p.textContent = im.getAttribute('data-i'); }
+      im.addEventListener('error', fallback);
+      if (im.complete && !im.naturalWidth) fallback();
+    });
     var track = box.querySelector('.track');
     box.querySelector('.l').onclick = function () { track.scrollBy({ left: -track.clientWidth * 0.9, behavior: 'smooth' }); };
     box.querySelector('.r').onclick = function () { track.scrollBy({ left: track.clientWidth * 0.9, behavior: 'smooth' }); };
