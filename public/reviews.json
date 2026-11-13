@@ -1,26 +1,14 @@
 {
- "updatedAt": "2026-11-13T23:30:00+03:00",
- "source": "seed",
+ "updatedAt": "2026-11-13T22:09:11.147Z",
+ "source": "places",
  "place": {
   "name": "Efendioğlu Gurme Market",
+  "mapsUri": "https://maps.google.com/?cid=866895817036598945&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "writeReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ0dOMWrfmMRURoQ69DyfVBww",
   "rating": 4.9,
-  "count": 676,
-  "mapsUri": "https://www.google.com/maps?cid=866895817036598945",
-  "writeReviewUri": "https://www.google.com/maps?cid=866895817036598945"
+  "count": 676
  },
  "reviews": [
-  {
-   "id": "seed-00",
-   "author": "Hamiyet Tokat",
-   "authorUri": null,
-   "photo": null,
-   "rating": 5,
-   "text": "Baharatlarınızı almak için tercih edeceğiniz tek yer olabilir ilgi ve alakaları bizi çok memnun etti özellikle Baki kardeşim özenle her şeyi bizler için paketledi. Sahibi olan beyfendinin sohbeti ve sıcakkanılığı çok keyifliydi, çok teşekkür ederiz.",
-   "publishTime": "2026-10-30T12:00:00Z",
-   "approxDate": true,
-   "relative": "2 hafta önce",
-   "source": "seed"
-  },
   {
    "id": "seed-01",
    "author": "Ender Sahin",
@@ -34,16 +22,17 @@
    "source": "seed"
   },
   {
-   "id": "seed-02",
-   "author": "bircan kocataş",
-   "authorUri": null,
-   "photo": null,
+   "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCaFVYTmFTVU5EWW5BelRtOXhXa0p6YlUxRFFtYxAB",
+   "author": "Hamiyet Tokat",
+   "authorUri": "https://www.google.com/maps/contrib/100177908212286674487/reviews",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKT5q6XqNjQ53Zq_7HChY7Nzbkdk9v11CJRRvU16dSCGaHN5A=s128-c0x00000000-cc-rp-mo",
    "rating": 5,
-   "text": "Gaziantep’e geldiğimizde baharat alışverişimiz için uğradığımız bu dükkândan çok memnun kaldık. Ürünlerin kalitesi ve çeşitliliği gerçekten çok güzeldi. Özellikle çalışan Baki Bey’in ilgisi, güler yüzü ve ürünler hakkında yaptığı güzel yönlendirmeler için ayrıca teşekkür ederiz. Alışverişimizi keyifli hale getirdi. Gaziantep’e yolu düşen herkese gönül rahatlığıyla tavsiye ederim. 😊",
-   "publishTime": "2026-10-13T12:00:00Z",
-   "approxDate": true,
-   "relative": "bir ay önce",
-   "source": "seed"
+   "text": "Baharatlarınızı almak için tercih edeceğiniz tek yer olabilir ilgi ve alakaları bizi çok memnun etti özellikle Baki kardeşim özenle her şeyi bizler için paketledi. Sahibi olan beyfendinin sohbeti ve sıcakkanılığı çok keyifliydi, çok teşekkür ederiz.",
+   "publishTime": "2026-10-29T12:08:47.382833157Z",
+   "approxDate": false,
+   "relative": "2 hafta önce",
+   "source": "places",
+   "seenAt": "2026-11-13T22:09:11.146Z"
   },
   {
    "id": "seed-03",
@@ -68,6 +57,32 @@
    "approxDate": true,
    "relative": "bir ay önce",
    "source": "seed"
+  },
+  {
+   "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsMlQwdGFRM000TFRZdFVFNWhlR3hVUW5WcVVYYxAB",
+   "author": "Gülnur ŞEN",
+   "authorUri": "https://www.google.com/maps/contrib/107320055980004118682/reviews",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJfJJ-xxyl0qN_7x7sG_J3moi1UZgHc2puUqU62jT9ME8NwsA=s128-c0x00000000-cc-rp-mo",
+   "rating": 5,
+   "text": "Baki kardeşimiz çok yardimci oldu cok memnun kaldık gaziantepte herkesi bakinin yanına beklerız urunler cok tazeydi",
+   "publishTime": "2026-10-10T15:11:08.339202010Z",
+   "approxDate": false,
+   "relative": "bir ay önce",
+   "source": "places",
+   "seenAt": "2026-11-13T22:09:11.146Z"
+  },
+  {
+   "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSTVZIcFRZM2h4VFhSTmIyRlNVazVLUTFCT1MwRRAB",
+   "author": "bircan kocataş",
+   "authorUri": "https://www.google.com/maps/contrib/100373852602210403523/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVkhD1iHBG8Jx5dGYTCaiqnsITq2R8zvAs9nCbNGGPSbAWNgOHAEw=s128-c0x00000000-cc-rp-mo-ba2",
+   "rating": 5,
+   "text": "Gaziantep’e geldiğimizde baharat alışverişimiz için uğradığımız bu dükkândan çok memnun kaldık. Ürünlerin kalitesi ve çeşitliliği gerçekten çok güzeldi. Özellikle çalışan Baki Bey’in ilgisi, güler yüzü ve ürünler hakkında yaptığı güzel yönlendirmeler için ayrıca teşekkür ederiz. Alışverişimizi keyifli hale getirdi. Gaziantep’e yolu düşen herkese gönül rahatlığıyla tavsiye ederim. 😊",
+   "publishTime": "2026-10-04T10:21:38.893930400Z",
+   "approxDate": false,
+   "relative": "bir ay önce",
+   "source": "places",
+   "seenAt": "2026-11-13T22:09:11.146Z"
   },
   {
    "id": "seed-05",
@@ -116,6 +131,32 @@
    "approxDate": true,
    "relative": "5 ay önce",
    "source": "seed"
+  },
+  {
+   "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nd1ZsOUhkMmsyY1UxdFExQk9XVzlaUld4ck5rRRAB",
+   "author": "AysegülKoçak Stüdyo",
+   "authorUri": "https://www.google.com/maps/contrib/117844679067322258628/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUte8sr1cVWxeSM092p7StcTA3u0eSqI5TA8LpcnInXAj0UTAo=s128-c0x00000000-cc-rp-mo-ba2",
+   "rating": 5,
+   "text": "Gaziantepe ayak bastık efendioğlu baharatta bulduk kendimizi bu ilgili esnafı es geçmeyim imam bey ev çırağı Ali bize müthiş bir hizmet sundu buradan alın aldırın .",
+   "publishTime": "2026-06-08T15:52:50.996483297Z",
+   "approxDate": false,
+   "relative": "5 ay önce",
+   "source": "places",
+   "seenAt": "2026-11-13T22:09:11.146Z"
+  },
+  {
+   "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poT1REVXRkRzh3ZEhjeU5GUTFZMm93TUZWT1EyYxAB",
+   "author": "Seyfi Dertli",
+   "authorUri": "https://www.google.com/maps/contrib/102271004827960621588/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXZhqTAsafQwNAMDDDSWiwm8qjHixoevsSlxVV3de94AqmLQ2sP4Q=s128-c0x00000000-cc-rp-mo-ba5",
+   "rating": 5,
+   "text": "İlgili bir arkadaşımız vardı. Ürünlerin daha uygun fiyatlı yerler vardı ancak güven hissettiğimiz 3 yerden biri olduğu için buradan almayı tercih ettik. Sağolsun çay ikram ettiler. Ücretsiz kargo yapacaklar. Ürünleri yerinde gördük güzel olacaktır geldikten sonra yoruma eklerim.",
+   "publishTime": "2026-05-30T17:05:06.463624591Z",
+   "approxDate": false,
+   "relative": "5 ay önce",
+   "source": "places",
+   "seenAt": "2026-11-13T22:09:11.146Z"
   },
   {
    "id": "seed-09",
