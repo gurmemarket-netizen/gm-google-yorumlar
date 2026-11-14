@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T03:04:10.854Z",
+ "updatedAt": "2026-11-14T05:08:04.637Z",
  "source": "places",
  "place": {
   "name": "Efendioğlu Gurme Market",
@@ -32,7 +32,7 @@
    "approxDate": false,
    "relative": "2 hafta önce",
    "source": "places",
-   "seenAt": "2026-11-14T03:04:10.853Z"
+   "seenAt": "2026-11-14T05:08:04.635Z"
   },
   {
    "id": "seed-03",
@@ -41,18 +41,6 @@
    "photo": null,
    "rating": 5,
    "text": "Gaziantep’te alabileceğiniz en kaliteli ürünlere sahip yerdir. Baki kardeşim özverili çalışması ve güler yüzüyle harika ilgilendi bizimle, yolunuz düşerse baki kardeşimi mutlaka bulun size yardımcı olacaktır",
-   "publishTime": "2026-10-13T12:00:00Z",
-   "approxDate": true,
-   "relative": "bir ay önce",
-   "source": "seed"
-  },
-  {
-   "id": "seed-04",
-   "author": "Batu Suayipoglu",
-   "authorUri": null,
-   "photo": null,
-   "rating": 5,
-   "text": "Ürün, hizmet ve kalite harika. Baki kardeşimize güzel esnaflığı için ayrıca teşekkür ederiz.",
    "publishTime": "2026-10-13T12:00:00Z",
    "approxDate": true,
    "relative": "bir ay önce",
@@ -72,6 +60,19 @@
    "seenAt": "2026-11-14T03:04:10.853Z"
   },
   {
+   "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCS05VNHpiWGR1VkU5WVlqWmFlVTkzU1MxWFkzYxAB",
+   "author": "Batu Suayipoglu",
+   "authorUri": "https://www.google.com/maps/contrib/108327250355556752372/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUIr0lavG7KQI2OfwaVL9-j149vw9il3Fuo5ukDf_fBWebnBBF1=s128-c0x00000000-cc-rp-mo",
+   "rating": 5,
+   "text": "Ürün, hizmet ve kalite harika. Baki kardeşimize güzel esnaflığı için ayrıca teşekkür ederiz.",
+   "publishTime": "2026-10-10T09:28:25.176717308Z",
+   "approxDate": false,
+   "relative": "bir ay önce",
+   "source": "places",
+   "seenAt": "2026-11-14T05:08:04.635Z"
+  },
+  {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSTVZIcFRZM2h4VFhSTmIyRlNVazVLUTFCT1MwRRAB",
    "author": "bircan kocataş",
    "authorUri": "https://www.google.com/maps/contrib/100373852602210403523/reviews",
@@ -82,7 +83,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-14T03:04:10.853Z"
+   "seenAt": "2026-11-14T05:08:04.635Z"
   },
   {
    "id": "seed-05",
@@ -143,7 +144,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-14T03:04:10.853Z"
+   "seenAt": "2026-11-14T05:08:04.635Z"
   },
   {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poT1REVXRkRzh3ZEhjeU5GUTFZMm93TUZWT1EyYxAB",
@@ -156,7 +157,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-14T03:04:10.853Z"
+   "seenAt": "2026-11-14T05:08:04.635Z"
   },
   {
    "id": "seed-09",
