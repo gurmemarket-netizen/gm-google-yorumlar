@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T18:25:47.906Z",
+ "updatedAt": "2026-11-21T18:33:47.030Z",
  "source": "places",
  "place": {
   "name": "Efendioğlu Gurme Market",
@@ -9,6 +9,71 @@
   "count": 684
  },
  "reviews": [
+  {
+   "id": "legacy:cahit serhat ateş:1795271796",
+   "author": "cahit serhat ateş",
+   "authorUri": "https://www.google.com/maps/contrib/103059689703214472001/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWz7QhUXz-gACCyqZTYKEXao_yaGuSxr1rhxiTn9G-7mJ3VVg=s128-c0x00000000-cc-rp-mo",
+   "rating": 5,
+   "text": "Baki esnafın hası çok iyi ilgilendi 😁",
+   "publishTime": "2026-11-21T14:36:36.000Z",
+   "approxDate": false,
+   "relative": "geçen hafta içinde",
+   "source": "places",
+   "seenAt": "2026-11-21T18:33:47.027Z"
+  },
+  {
+   "id": "legacy:H K:1795260657",
+   "author": "H K",
+   "authorUri": "https://www.google.com/maps/contrib/111588056124276721131/reviews",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIydPQycK-JxC-QRj-dgiL23ssRElfhzs_8GeFzUY4TZK_gRKeo=s128-c0x00000000-cc-rp-mo-ba3",
+   "rating": 5,
+   "text": "Baki kardeşimize ilgisi için teşekkür ederiz Teşekkür ederiz",
+   "publishTime": "2026-11-21T11:30:57.000Z",
+   "approxDate": false,
+   "relative": "geçen hafta içinde",
+   "source": "places",
+   "seenAt": "2026-11-21T18:33:47.027Z"
+  },
+  {
+   "id": "legacy:Ezgi G.:1795010938",
+   "author": "Ezgi G.",
+   "authorUri": "https://www.google.com/maps/contrib/111061115702910908054/reviews",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocK-OOvCnoGG8b5kzHtzxgweDFziXjzrmrludJTGMn0dFM8TTLw=s128-c0x00000000-cc-rp-mo-ba5",
+   "rating": 5,
+   "text": "Yorumlara bakarak tercih ettik ve memnun kaldık. Görevli genç arkadaşa teşekkür ederim bizimle çok ilgilendi. İzmirden geldik, bundan sonra siparişlerimde ilk tercihim burası olacak.",
+   "publishTime": "2026-11-18T14:08:58.000Z",
+   "approxDate": false,
+   "relative": "geçen hafta içinde",
+   "source": "places",
+   "seenAt": "2026-11-21T18:33:47.027Z"
+  },
+  {
+   "id": "legacy:Mikail Garip:1795003884",
+   "author": "Mikail Garip",
+   "authorUri": "https://www.google.com/maps/contrib/107991215817564135225/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUwdCOy7cWiDkYlNF7nIFYymzLODHghOZJIoTXcZpXJZV4LD6mw=s128-c0x00000000-cc-rp-mo",
+   "rating": 5,
+   "text": "Baki kardeşimin yardımları için teşekkür ederiz",
+   "publishTime": "2026-11-18T12:11:24.000Z",
+   "approxDate": false,
+   "relative": "geçen hafta içinde",
+   "source": "places",
+   "seenAt": "2026-11-21T18:33:47.027Z"
+  },
+  {
+   "id": "legacy:Huseyin burak Koc:1795003689",
+   "author": "Huseyin burak Koc",
+   "authorUri": "https://www.google.com/maps/contrib/113912234089823927293/reviews",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUOo1ZKS-Sli0NqvubDZon0T1T27UX1vZgru6bueULZOt7ytj-rWQ=s128-c0x00000000-cc-rp-mo",
+   "rating": 5,
+   "text": "Baki kardeşimiz çok iyi ilgilendi bizimle çok memnun kaldık hizmetten",
+   "publishTime": "2026-11-18T12:08:09.000Z",
+   "approxDate": false,
+   "relative": "geçen hafta içinde",
+   "source": "places",
+   "seenAt": "2026-11-21T18:33:47.027Z"
+  },
   {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kbVR6VTVXbGxoZWxOYVdFaHZUMUpyUmtoQlJFRRAB",
    "author": "Yağmur Uçar",
@@ -20,7 +85,7 @@
    "approxDate": false,
    "relative": "bir hafta önce",
    "source": "places",
-   "seenAt": "2026-11-21T18:25:47.903Z"
+   "seenAt": "2026-11-21T18:33:47.027Z"
   },
   {
    "id": "seed-01",
@@ -45,7 +110,7 @@
    "approxDate": false,
    "relative": "3 hafta önce",
    "source": "places",
-   "seenAt": "2026-11-21T18:25:47.903Z"
+   "seenAt": "2026-11-21T18:33:47.027Z"
   },
   {
    "id": "seed-03",
@@ -96,7 +161,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-21T18:25:47.903Z"
+   "seenAt": "2026-11-21T18:33:47.027Z"
   },
   {
    "id": "seed-05",
@@ -157,7 +222,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-21T18:25:47.903Z"
+   "seenAt": "2026-11-21T18:33:47.027Z"
   },
   {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poT1REVXRkRzh3ZEhjeU5GUTFZMm93TUZWT1EyYxAB",
@@ -170,7 +235,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-21T18:25:47.903Z"
+   "seenAt": "2026-11-21T18:33:47.027Z"
   },
   {
    "id": "seed-09",
