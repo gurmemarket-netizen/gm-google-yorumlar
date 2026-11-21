@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-21T13:16:50.941Z",
+ "updatedAt": "2026-11-21T15:03:29.258Z",
  "source": "places",
  "place": {
   "name": "Efendioğlu Gurme Market",
   "mapsUri": "https://maps.google.com/?cid=866895817036598945&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
   "writeReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ0dOMWrfmMRURoQ69DyfVBww",
   "rating": 4.9,
-  "count": 683
+  "count": 684
  },
  "reviews": [
   {
@@ -20,7 +20,7 @@
    "approxDate": false,
    "relative": "bir hafta önce",
    "source": "places",
-   "seenAt": "2026-11-21T13:16:50.936Z"
+   "seenAt": "2026-11-21T15:03:29.255Z"
   },
   {
    "id": "seed-01",
@@ -45,7 +45,7 @@
    "approxDate": false,
    "relative": "3 hafta önce",
    "source": "places",
-   "seenAt": "2026-11-21T13:16:50.936Z"
+   "seenAt": "2026-11-21T15:03:29.255Z"
   },
   {
    "id": "seed-03",
@@ -96,7 +96,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-21T13:16:50.936Z"
+   "seenAt": "2026-11-21T15:03:29.255Z"
   },
   {
    "id": "seed-05",
@@ -157,7 +157,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-21T13:16:50.936Z"
+   "seenAt": "2026-11-21T15:03:29.255Z"
   },
   {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poT1REVXRkRzh3ZEhjeU5GUTFZMm93TUZWT1EyYxAB",
@@ -170,7 +170,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-21T13:16:50.936Z"
+   "seenAt": "2026-11-21T15:03:29.255Z"
   },
   {
    "id": "seed-09",
