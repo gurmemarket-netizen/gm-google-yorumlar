@@ -91,13 +91,32 @@ async function fromPlaces() {
   const p = await getJson(`https://places.googleapis.com/v1/places/${placeId}?languageCode=tr&regionCode=TR`, {
     headers: { 'X-Goog-Api-Key': key, 'X-Goog-FieldMask': 'id,displayName,rating,userRatingCount,googleMapsUri,reviews' },
   });
+  // En yeni 5 yorum: Places API (eski sürüm) reviews_sort=newest. Hata olursa yalnızca uyarı verir.
+  let newest = [];
+  try {
+    const L = await getJson(`https://maps.googleapis.com/maps/api/place/details/json?place_id=${p.id}&fields=reviews&reviews_sort=newest&reviews_no_translations=true&language=tr&key=${key}`);
+    if (L.status && L.status !== 'OK') throw new Error(`${L.status} ${String(L.error_message || '').slice(0, 200)}`);
+    newest = (L.result?.reviews || []).map(r => ({
+      id: `legacy:${r.author_name}:${r.time}`,
+      author: r.author_name || 'Google kullanıcısı',
+      authorUri: r.author_url || null,
+      photo: r.profile_photo_url || null,
+      rating: r.rating || 0,
+      text: String(r.text || '').trim(),
+      publishTime: r.time ? new Date(r.time * 1000).toISOString() : null,
+      approxDate: false,
+      relative: r.relative_time_description || null,
+      source: 'places',
+    }));
+  } catch (e) { console.log('En yeni yorumlar alınamadı (Places eski sürüm):', String(e.message).slice(0, 300)); }
+
   return {
     source: 'places',
     place: {
       rating: p.rating, count: p.userRatingCount, mapsUri: p.googleMapsUri,
       writeReviewUri: `https://search.google.com/local/writereview?placeid=${p.id}`,
     },
-    reviews: (p.reviews || []).map(r => ({
+    reviews: [...(p.reviews || []).map(r => ({
       id: r.name,
       author: r.authorAttribution?.displayName || 'Google kullanıcısı',
       authorUri: r.authorAttribution?.uri || null,
@@ -108,7 +127,7 @@ async function fromPlaces() {
       approxDate: false,
       relative: r.relativePublishTimeDescription || null,
       source: 'places',
-    })),
+    })), ...newest],
   };
 }
 
