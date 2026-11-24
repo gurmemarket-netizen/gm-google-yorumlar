@@ -1,14 +1,27 @@
 {
- "updatedAt": "2026-11-24T07:40:49.710Z",
+ "updatedAt": "2026-11-24T09:28:15.884Z",
  "source": "places",
  "place": {
   "name": "Efendioğlu Gurme Market",
   "mapsUri": "https://maps.google.com/?cid=866895817036598945&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
   "writeReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ0dOMWrfmMRURoQ69DyfVBww",
   "rating": 4.9,
-  "count": 684
+  "count": 685
  },
  "reviews": [
+  {
+   "id": "legacy:furkan uyguç:1795510827",
+   "author": "furkan uyguç",
+   "authorUri": "https://www.google.com/maps/contrib/100120589487491968965/reviews",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJmglUfB4yCbhJT5WON2CLhy9Rn1zFA0R55wT5S_IMvUF8OVxc=s128-c0x00000000-cc-rp-mo-ba3",
+   "rating": 4,
+   "text": "ürünler çok başarılı kargo paketleme de güzel fakat insan bu kadar şey alınca hediye bekliyor",
+   "publishTime": "2026-11-24T09:00:27.000Z",
+   "approxDate": false,
+   "relative": "geçen hafta içinde",
+   "source": "places",
+   "seenAt": "2026-11-24T09:28:15.877Z"
+  },
   {
    "id": "legacy:cahit serhat ateş:1795271796",
    "author": "cahit serhat ateş",
@@ -20,7 +33,7 @@
    "approxDate": false,
    "relative": "geçen hafta içinde",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "legacy:H K:1795260657",
@@ -33,7 +46,7 @@
    "approxDate": false,
    "relative": "geçen hafta içinde",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "legacy:Ezgi G.:1795010938",
@@ -46,7 +59,7 @@
    "approxDate": false,
    "relative": "geçen hafta içinde",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "legacy:Mikail Garip:1795003884",
@@ -59,7 +72,7 @@
    "approxDate": false,
    "relative": "geçen hafta içinde",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "legacy:Huseyin burak Koc:1795003689",
@@ -85,7 +98,7 @@
    "approxDate": false,
    "relative": "bir hafta önce",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "seed-01",
@@ -135,7 +148,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCS05VNHpiWGR1VkU5WVlqWmFlVTkzU1MxWFkzYxAB",
@@ -161,7 +174,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "seed-05",
@@ -235,7 +248,7 @@
    "approxDate": false,
    "relative": "5 ay önce",
    "source": "places",
-   "seenAt": "2026-11-24T07:40:49.705Z"
+   "seenAt": "2026-11-24T09:28:15.877Z"
   },
   {
    "id": "seed-09",
