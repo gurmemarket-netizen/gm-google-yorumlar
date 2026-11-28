@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T13:21:04.087Z",
+ "updatedAt": "2026-11-28T15:03:29.031Z",
  "source": "places",
  "place": {
   "name": "Efendioğlu Gurme Market",
@@ -20,7 +20,7 @@
    "approxDate": false,
    "relative": "geçen hafta içinde",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "legacy:furkan uyguç:1795510827",
@@ -33,7 +33,7 @@
    "approxDate": false,
    "relative": "geçen hafta içinde",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "legacy:cahit serhat ateş:1795271796",
@@ -44,9 +44,9 @@
    "text": "Baki esnafın hası çok iyi ilgilendi 😁",
    "publishTime": "2026-11-21T14:36:36.000Z",
    "approxDate": false,
-   "relative": "geçen hafta içinde",
+   "relative": "bir hafta önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "legacy:H K:1795260657",
@@ -59,7 +59,7 @@
    "approxDate": false,
    "relative": "bir hafta önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "legacy:Ezgi G.:1795010938",
@@ -72,7 +72,7 @@
    "approxDate": false,
    "relative": "bir hafta önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "legacy:Mikail Garip:1795003884",
@@ -111,7 +111,7 @@
    "approxDate": false,
    "relative": "2 hafta önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "seed-01",
@@ -161,7 +161,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "places/ChIJ0dOMWrfmMRURoQ69DyfVBww/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCS05VNHpiWGR1VkU5WVlqWmFlVTkzU1MxWFkzYxAB",
@@ -187,7 +187,7 @@
    "approxDate": false,
    "relative": "bir ay önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "seed-05",
@@ -261,7 +261,7 @@
    "approxDate": false,
    "relative": "6 ay önce",
    "source": "places",
-   "seenAt": "2026-11-28T13:21:04.084Z"
+   "seenAt": "2026-11-28T15:03:29.026Z"
   },
   {
    "id": "seed-09",
